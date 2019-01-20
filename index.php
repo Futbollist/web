@@ -19,7 +19,7 @@
             ],
         ];
 
-        registration("Петя", 2, 2113, "Kirov", "male");
+        registration("Максим", 2, 2113, "Kirov", "male");
         registration("Вася", 3, 213, "Moscow", "male");
         registration("Ваня", 4, 123, "Kiev", "male");
         registration("Кирилл", 5, 1231, "Minsk", "male");
